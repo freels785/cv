@@ -1,0 +1,177 @@
+.top-container {
+    background-color: #B8E8FC;
+    padding-bottom: 50px;
+    
+    
+}
+
+body {
+    margin: 0px 0px 0px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading-1 {
+    margin: 0 auto 0 auto;
+    padding-top: 100px;
+    font-family: 'El Messiri', sans-serif;
+    font-size: 2.5rem;
+}
+
+.heading-2 {
+    margin: 0 auto 0 auto;
+    padding-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+}
+
+
+.firetruck {
+    display: block;
+    margin: 0 auto 0 auto;
+    padding-top: 100px;
+    width: 40%; 
+    
+}
+
+
+h3 {
+    font-family: 'El Messiri', sans-serif;
+    font-size: 2rem;
+}
+
+.about-me {
+    width: 80%;
+    display: inline-block;
+    line-height: 2;
+}
+
+.container-1 {
+    padding-top: 50px;
+
+}
+
+.profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 25px 0;
+}
+
+hr {
+    border: 1px solid;
+    width: 80%;
+}
+
+.container-2 {
+    margin: 50px 0;
+
+}
+
+.thead {
+    font-family: 'El Messiri', sans-serif;
+    font-size: 1.5rem;
+}
+
+.skills {
+    width: 80%;
+    position: relative;
+    margin: 0 auto;
+    border-spacing: 10px;
+    
+}
+
+.table-body {
+    text-align: left;
+    line-height: 2;
+    padding: 10px;
+}
+
+td {
+    padding: 15px;
+}
+
+.container-3 {
+    margin: 50px auto;
+    width: 80%;
+    text-align: center;
+}
+
+.container-4 {
+    margin: 50px auto;
+    width: 80%;
+    text-align: center;
+}
+
+.bottom-container {
+    background-color: #B8E8FC;
+    padding-top: 150px;
+    margin: 0 auto;
+}
+
+.contact-me {
+    display: inline-block;
+    font-size: 1.5rem;
+    padding: 10px;
+    margin: 0 auto 15px auto;
+}
+
+.back-to-cv {
+    display: inline-block;
+    font-size: 1.5rem;
+    padding: 10px;
+    margin: 0 auto 15px auto;
+}
+
+.linkedin {
+    display: inline-block;
+    font-size: 1.5rem;
+    padding: 10px;
+    margin: 0 auto 15px auto;
+}
+
+.copyright {
+    font-size: 1rem;
+    margin: 10px auto 0 auto;
+    padding-bottom: 10px;
+}
+
+a {
+    color: #03001C;
+}
+
+a:hover {
+     color: #7B2869;
+}
+
+.container-contact {
+    margin: 50px auto;
+    width: 80%;
+    text-align: center;
+    
+}
+
+.burj {
+    width: 25%;
+    margin: 0 auto 0 auto;
+    padding-top: 10px;
+    padding-right: 5px;
+    position: relative;
+    right: 130px;
+}
+
+.contact-me-details {
+    float: right;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 5px;
+    margin: 100px auto 0 auto;
+    font-size: 1.2rem;
+}
+
+.form-container {
+    margin: 50px auto;
+    width: 80%;
+    text-align: center;
+}
+
